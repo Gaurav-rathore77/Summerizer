@@ -30,7 +30,7 @@ const App = () => {
   };
 
   return (
-    <div className="container-fluid h-100 w-100 d-flex align-items-center justify-content-center bg-light">
+    <div className="container-fluid mx-auto  h-100 w-100 d-flex align-items-center justify-content-center bg-light">
       <div className="card shadow-lg p-4 w-100 mx-auto" style={{ maxWidth: "1200px" }}>
         <h1 className="text-center text-primary mb-4">🔍 Free Text Summarizer</h1>
 
